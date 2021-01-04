@@ -1,0 +1,4 @@
+@extends('admin.layouts.default')
+@section('admin.content')
+   Admin index
+@endsection
